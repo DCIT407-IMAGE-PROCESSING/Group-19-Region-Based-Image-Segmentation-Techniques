@@ -1,8 +1,9 @@
 # Sample Images
 
-Place your test images in this directory.
+Place the test images in this directory.
 
 ## Recommended Images
+- Animal dataset ([biancaferreira/african-wildlife](https://www.kaggle.com/datasets/biancaferreira/african-wildlife))
 - Natural scenes with distinct regions
 - Medical images (X-rays, MRI scans)
 - Satellite/aerial images
