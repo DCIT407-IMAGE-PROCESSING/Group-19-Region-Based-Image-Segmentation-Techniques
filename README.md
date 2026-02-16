@@ -48,7 +48,7 @@ This project explores **9 segmentation techniques** - from classical algorithms 
 │   # ── Supporting directories ──
 ├── images/
 │   └── sample/                         # Shared test images (007.jpg, Circle.jpg)
-├── results/                            # Output visualizations
+├── results/                            # Output visualizations (TODO)
 ├── docs/                               # Guides & supplementary material
 │   ├── NOTEBOOK_STYLE_GUIDE.md         # Standard notebook structure for all members
 │   ├── SegFormer_B0_Explained.md
