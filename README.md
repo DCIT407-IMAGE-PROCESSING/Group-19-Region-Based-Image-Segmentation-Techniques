@@ -97,13 +97,13 @@ jupyter notebook region_segmentation_project.ipynb
 - Mean Shift clustering
 - Graph-based segmentation methods
 
-### 3. Results
+### 3. Results (TODO)
 - Original vs. segmented images
 - Comparative analysis of different techniques
 - Performance metrics
 - Visual quality assessment
 
-### 4. Discussion
+### 4. Discussion 
 - Strengths and limitations of each technique
 - Computational complexity analysis
 - Real-world applications
